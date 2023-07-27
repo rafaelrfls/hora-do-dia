@@ -8,10 +8,10 @@ Primeiro projeto feito com Javascript, onde modifico a imagem e cor de fundo do 
 ## Manhã
 ![image](assets/img/readme-images/pagina-manha.png)
 
-## Manhã
+## Tarde
 ![image](assets/img/readme-images/pagina-tarde.png)
 
-## Manhã
+## Noite
 ![image](assets/img/readme-images/pagina-noite.png)
 
 [Clique aqui](https://micheleambrosio.github.io/coffee-shop-bootstrap-dio/) para acessar o resultado final do projeto.
@@ -20,19 +20,12 @@ Primeiro projeto feito com Javascript, onde modifico a imagem e cor de fundo do 
 
 * [HTML](https://www.w3.org/html/) - Linguagem de Marcação
 * [CSS](https://www.w3.org/Style/CSS/) - Linguagem de Estilização
-* [Bootstrap](https://getbootstrap.com/) - Framework CSS
+* [JavaScript](https://www.javascript.com/) - JavaScript
 
 <h2>📦 Temas abordados</h2>
 
 - Fundamentos do CSS
-- Grid Layout
-- Flexbox
-- Responsividade
-- Pseudo-elementos
-- Pseudo-classes
-- Transformações 2D e 3D
-- Transições e animações
-- Tratamento de campos inválidos no formulário
+- Alterações condicionais com JavaScript
 
 ## ✒️ Autor
 <p>
